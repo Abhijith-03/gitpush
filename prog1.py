@@ -1,5 +1,5 @@
 a=[]
-n=int("Enter the length of the list: ")
+n=int("Enter the length of  list: ")
 for i in range n:
     b=input("Enter the names to be added: ")
     a.append(b)
